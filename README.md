@@ -3,6 +3,7 @@ Exploring Data Science applications in Chemistry : Chemical Property Prediction.
 
 #Introduction
 Data science methods can be applied universally, limited only by the availability of data. Chemistry, although precise, requires data for analysis. Various areas in chemistry, such as predicting properties of molecules based on their descriptors or determining the descriptors for molecules with specific properties, pose challenges that data science can address. These are known as QSPR and QSAR problems. Previous solutions have employed chemical, mathematical, and quantum mechanics-based approaches, which are computationally intensive and not always precise. This situation parallels the common issue of prolonged property value determination. The potential for expediting these processes through data science is worth exploring.
+![Visulaizing Molecular Structures](1.png)
 
 **SMILES **(Simplified Molecular Input Line Entry System): SMILES uses simplified notations with chemical symbols and special characters to represent molecules, making it easily accessible and suitable for conveying main chemical concepts.
 
