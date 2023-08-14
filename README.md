@@ -12,4 +12,6 @@ Data science methods can be applied universally, limited only by the availabilit
 **Coulomb Matrices and Quantum Descriptors**: These methods utilize the principles of quantum chemistry, such as the Coulomb matrix and custom quantum approaches, to derive molecular properties from complex equations, requiring accurate atom coordinates and nuclear charges.
 
 **Custom Descriptors**: Custom descriptors involve crafting specific properties, like bond counts and atom groups, either manually or from existing representations, offering flexibility but demanding careful design and consideration of processing needs.
+![Correlating number of Specific Atoms and Lipophilicity](3.png)
+
 
